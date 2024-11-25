@@ -4,3 +4,5 @@
 微步沙箱执行结果
 ![image](https://github.com/trymonoly/New_BypassAV/blob/main/QQ%E5%9B%BE%E7%89%8720241125232052.png)
 ![image](https://github.com/trymonoly/New_BypassAV/blob/main/QQ%E5%9B%BE%E7%89%8720241125232058.png)
+
+微软直接生成对应的mmc.bin的shellcode放在
